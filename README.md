@@ -15,4 +15,5 @@
 - Mauli Trivedi
 
 # Results
-![Scores](scores.png)
+Interative Results Bar Chart
+[![Foo](scores.png)](https://preview.flourish.studio/7995764/P1XAbOuI7qxN5sLTXtvx5w2eQlxv8BZ3hmTFZO_qwuYvMDwn0_MeI5OiLPOkr5K-/)
