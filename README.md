@@ -1,4 +1,4 @@
-# Comparative Studies of Detecting Offensive Speech in Multiple Languages on Social Media
+# Comparative Analysis of Detecting Offensive Speech in Multiple Languages on Social Media
 
 - Dataset Preprocessing -> Data Preprocessing.ipynb
 - Traditional ML Models -> Traditional ML Models.ipynb
