@@ -13,3 +13,6 @@
 - Romina Mir
 - Prerak Pradhan
 - Mauli Trivedi
+
+# Results
+![Scores](scores.png)
