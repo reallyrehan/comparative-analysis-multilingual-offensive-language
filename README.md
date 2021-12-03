@@ -4,7 +4,8 @@
 - Traditional ML Models -> Traditional ML Models.ipynb
 - CNN -> CNN.ipynb
 - Ensemble Predictor -> Ensemble.ipynb
-- Link to Paper -> [Paper](https://docs.google.com/document/d/1tr_iQoQlR2AK0GaH0tiWfsDO6DElOkkYkPkP4F5MjsY/edit#heading=h.3wukttbfcg28)
+- [Paper](paper.pdf)
+- [Slides](slides.pdf)
 
 
 ## Team
